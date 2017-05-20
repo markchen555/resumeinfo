@@ -37,4 +37,3 @@ The resume site is fully powered by JavaScript. The layout has been modified wit
 ### License
 
 The project is licensed under the [MIT license](license.txt).
-# resumeinfo
